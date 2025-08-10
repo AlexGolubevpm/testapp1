@@ -1,0 +1,22 @@
+[
+  {"id":1,"hsk_level":1,"hanzi":"你","pinyin":"nǐ","translation_ru":"ты"},
+  {"id":2,"hsk_level":1,"hanzi":"好","pinyin":"hǎo","translation_ru":"хорошо; привет"},
+  {"id":3,"hsk_level":1,"hanzi":"谢谢","pinyin":"xièxie","translation_ru":"спасибо"},
+  {"id":4,"hsk_level":1,"hanzi":"请","pinyin":"qǐng","translation_ru":"пожалуйста; приглашать"},
+  {"id":5,"hsk_level":1,"hanzi":"是","pinyin":"shì","translation_ru":"быть; являться"},
+  {"id":6,"hsk_level":1,"hanzi":"不","pinyin":"bù","translation_ru":"не (частица отрицания)"},
+  {"id":7,"hsk_level":1,"hanzi":"了","pinyin":"le","translation_ru":"модальная частица (завершённость)"},
+  {"id":8,"hsk_level":1,"hanzi":"人","pinyin":"rén","translation_ru":"человек"},
+  {"id":9,"hsk_level":1,"hanzi":"中国","pinyin":"Zhōngguó","translation_ru":"Китай"},
+  {"id":10,"hsk_level":1,"hanzi":"汉语","pinyin":"Hànyǔ","translation_ru":"китайский язык"},
+  {"id":11,"hsk_level":2,"hanzi":"因为","pinyin":"yīnwèi","translation_ru":"потому что"},
+  {"id":12,"hsk_level":2,"hanzi":"所以","pinyin":"suǒyǐ","translation_ru":"поэтому"},
+  {"id":13,"hsk_level":2,"hanzi":"一起","pinyin":"yìqǐ","translation_ru":"вместе"},
+  {"id":14,"hsk_level":3,"hanzi":"虽然","pinyin":"suīrán","translation_ru":"хотя"},
+  {"id":15,"hsk_level":3,"hanzi":"但是","pinyin":"dànshì","translation_ru":"но; однако"},
+  {"id":16,"hsk_level":3,"hanzi":"如果","pinyin":"rúguǒ","translation_ru":"если"},
+  {"id":17,"hsk_level":4,"hanzi":"决定","pinyin":"juédìng","translation_ru":"решать; решение"},
+  {"id":18,"hsk_level":4,"hanzi":"提高","pinyin":"tígāo","translation_ru":"повышать; улучшать"},
+  {"id":19,"hsk_level":5,"hanzi":"经验","pinyin":"jīngyàn","translation_ru":"опыт"},
+  {"id":20,"hsk_level":5,"hanzi":"影响","pinyin":"yǐngxiǎng","translation_ru":"влиять; влияние"}
+]
