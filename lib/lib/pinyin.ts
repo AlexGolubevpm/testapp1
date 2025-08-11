@@ -1,2 +1,3 @@
 import { pinyin } from 'pinyin-pro'
-export const toPinyin = (txt:string) => pinyin(txt, { toneType: 'mark' })
+// Use supported "symbol" tone type; "mark" is deprecated and caused build errors.
+export const toPinyin = (txt: string) => pinyin(txt, { toneType: 'symbol' })
